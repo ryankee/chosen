@@ -85,8 +85,7 @@
   /*
   Chosen source: generate output using 'cake build'
   Copyright (c) 2011 by Harvest
-  */
-  var AbstractChosen, root;
+  */  var AbstractChosen, root;
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
   root = this;
   AbstractChosen = (function() {
@@ -233,8 +232,7 @@
   /*
   Chosen source: generate output using 'cake build'
   Copyright (c) 2011 by Harvest
-  */
-  var Chosen, get_side_border_padding, root;
+  */  var Chosen, get_side_border_padding, root;
   var __hasProp = Object.prototype.hasOwnProperty, __extends = function(child, parent) {
     for (var key in parent) { if (__hasProp.call(parent, key)) child[key] = parent[key]; }
     function ctor() { this.constructor = child; }
